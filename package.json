@@ -29,7 +29,6 @@
   "dependencies": {
     "ap": "~0.2.0",
     "array-to-hash": "~1.0.0",
-    "assert-array": "~1.0.0",
     "assert-key": "~1.0.0"
   }
 }
