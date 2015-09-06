@@ -1,7 +1,7 @@
 {
   "name": "assert-in",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Assert that a value is in an array",
   "license": "MIT",
   "repository": "bendrucker/assert-in",
