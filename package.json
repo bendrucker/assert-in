@@ -1,0 +1,35 @@
+{
+  "name": "assert-in",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Assert that a value is in an array",
+  "license": "MIT",
+  "repository": "bendrucker/assert-in",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "assert",
+    "value",
+    "in",
+    "array"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "array-to-hash": "~1.0.0",
+    "assert-array": "~1.0.0",
+    "assert-key": "~1.0.0"
+  }
+}
