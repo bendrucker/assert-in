@@ -1,4 +1,4 @@
-# assert-in [![Build Status](https://travis-ci.org/bendrucker/assert-in.svg?branch=master)](https://travis-ci.org/bendrucker/assert-in)
+# assert-in [![Build Status](https://travis-ci.org/bendrucker/assert-in.svg?branch=master)](https://travis-ci.org/bendrucker/assert-in) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/assert-in.svg)](https://greenkeeper.io/)
 
 > Assert that a value is in an array
 
